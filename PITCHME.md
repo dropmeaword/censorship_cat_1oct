@@ -1,11 +1,20 @@
 
-![web del referendum](http://res.cloudinary.com/zilogtastic/image/upload/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.59.43.png)
+![web censurada del referendum](http://res.cloudinary.com/zilogtastic/image/upload/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.59.43.png)
+
+---
+
+![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
 
 ---
 
 ![github repo with mirror](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510851285/cat_referendum/Screen_Shot_2017-11-16_at_17.54.19.png)
 
 ---
+
+![servidores en cloudflare](http://res.cloudinary.com/zilogtastic/image/upload/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.46.09.png)
+
+---
+
 
 The web asked for 3 pieces of information:
 - Your national identity number (similar to the Dutch BSN Burgerserviesnummer)
@@ -139,15 +148,7 @@ Website was Grade A according to SSLlabs, this is the highest ranking and certif
 
 ---
 
-![servidores en cloudflare](http://res.cloudinary.com/zilogtastic/image/upload/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.46.09.png)
-
----
-
 ![encouraging people to send the apps APK package via whatsapp](http://res.cloudinary.com/zilogtastic/image/upload/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.54.15.png)
-
----
-
-![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
 
 ---
 
