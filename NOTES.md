@@ -1,3 +1,11 @@
+
+How I came to all this?
+- my interest in (circumventing) online censorship
+- the political situation made it obvious that any attempt at activity online will be met with strong censorship
+- how things played out on the 1st of October
+---
+Trying to address the question: How do you build a Universal Digital Referendum when you know that a State power is behind you and that they will retaliate with all they have?
+---
 On 24 NOV 2016 ex-senator Santi Vidal said: "Right now, the Catalonian government has all your your personal data from the Tax system. Is this legal? Well, no it isn't. Data Protection Laws applicable in the whole of the Spanish territory technically prevent us from doing this. But we are not stupid."
 
 On January 2017, ERC, his party asked him to step down.
@@ -11,3 +19,5 @@ Censorship has targeted official websites of Generalitat, the Catalan Governemen
 The Spanish police seems not to be able to censor websites hosted abroad or with domain names managed by organizations abroad.
 ---
 
+So in light of this, how do you put all that data online?
+How do you build a Universal Digital Referendum when you know that a State power is behind you and that they will retaliate with all they have?
