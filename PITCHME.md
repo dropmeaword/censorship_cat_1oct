@@ -126,7 +126,6 @@ Each _shard_ is encrypted.
 
 13 September 2017, a judge instructing the cause against Santi Vidal gave national telecoms 24h to block the 10 known websites hosting the website of the Catalonian Referendum
 
-
 ---
 
 ![github repo of whatsapp bot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510852160/cat_referendum/Screen_Shot_2017-11-16_at_18.08.46.png)
