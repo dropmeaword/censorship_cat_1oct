@@ -53,6 +53,7 @@ This is some kind of encoded database. Not entirely clear what it is.
 ---
 
 The `index.html` file reveals what your browser does next:
+
 ```
 <script type="text/javascript" src="../js/bundleV9.js"></script>
 <script type="text/javascript">
@@ -123,7 +124,7 @@ Each _shard_ is encrypted.
 
 ---
 
-16 September 2017, a judge instructing the cause against Santi Vidal gave national telecoms 24h to block the 10 known websites hosting the website of the Catalonian Referendum
+13 September 2017, a judge instructing the cause against Santi Vidal gave national telecoms 24h to block the 10 known websites hosting the website of the Catalonian Referendum
 
 
 ---
