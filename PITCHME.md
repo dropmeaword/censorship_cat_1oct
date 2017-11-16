@@ -40,7 +40,7 @@
 This was what most telecoms did: Orange and other telecoms that use their network (Jazztel, SomConnexió. As well as other telecoms with their own network Euskaltel, Vodafone.
 ---
 ### Remember #direntwitter
-![#direntwitter](http://res.cloudinary.com/zilogtastic/image/upload/v1510850656/cat_referendum/Alternative_DNS.jpg)
+![#direntwitter](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1510850656/cat_referendum/Alternative_DNS.jpg)
 ---
 ## Movistar
 #### Telefonica's mobile network.
