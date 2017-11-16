@@ -46,8 +46,8 @@ This was what most telecoms did: Orange and other telecoms that use their networ
 #### Telefonica's mobile network.
 
 They used a primitive form of DPI (deep packet inspection).
-	- For regular HTTP connections they used hostname and IP blacklists.
-	- For HTTP*S* connections they look up the field SNI (unencrypted hostname in the TLS message) and the IPs.
+- For regular HTTP connections they used hostname and IP blacklists.
+- For HTTP*S* connections they look up the field SNI (unencrypted hostname in the TLS message) and the IPs.
 
 ![movistar DPI](http://res.cloudinary.com/zilogtastic/image/upload/v1510850566/cat_referendum/movistar-wireshark-mitm.png)
 
