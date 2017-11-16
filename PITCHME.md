@@ -1,11 +1,3 @@
----
-![santi vidal](http://res.cloudinary.com/zilogtastic/image/upload/v1510850104/cat_referendum/Screen_Shot_2017-11-16_at_17.28.18.png)
-
----
-
-16 September 2017, a judge instructing the cause against Santi Vidal gave national telecoms 24h to block the 10 known websites hosting the website of the Catalonian Referendum
-
----
 
 ![web del referendum](http://res.cloudinary.com/zilogtastic/image/upload/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.59.43.png)
 
@@ -109,6 +101,20 @@ This calculates a _shard_ number. This means that they split the database into m
 The number of shard indicates that there are about 65000 of them, and each shard contains the personal data of about 70 Catalonians elligible to vote. 70 times 65000 is about 4.5 million, which seems about correct 4.5 million people in Catalonia are elligible to 
 vote.
 
+---
+
+Each _shard_ is encrypted.
+
+---
+
+## Where does all this data come from?
+
+---
+![santi vidal](http://res.cloudinary.com/zilogtastic/image/upload/v1510850104/cat_referendum/Screen_Shot_2017-11-16_at_17.28.18.png)
+
+---
+
+16 September 2017, a judge instructing the cause against Santi Vidal gave national telecoms 24h to block the 10 known websites hosting the website of the Catalonian Referendum
 
 
 ---
