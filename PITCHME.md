@@ -3,7 +3,7 @@
 
 ---
 
-![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
+![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_480/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
 
 ---
 
@@ -186,9 +186,11 @@ They announced that no content would be censored on their network
 
 ### More information
 
+- https://en.wikipedia.org/wiki/2017_Spanish_constitutional_crisis
 - https://twitter.com/censura1oct?lang=en
 - http://pirata.cat/bloc/evidencia-de-censura-en-internet-durante-el-referendum-de-independencia-de-cataluna/
 - http://www.entredevyops.es/posts/referendum-votar.html
+- https://censura1oct.github.io/en/2017/09/16/methods_en.html
 
 ---
 ### You can find these materials here
