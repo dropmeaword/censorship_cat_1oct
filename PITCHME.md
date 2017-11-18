@@ -1,13 +1,13 @@
 
-![web censurada del referendum](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.59.43.png)
+![web censurada del referendum](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.59.43.png)
 
 ---
 
-![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
+![the referendums web](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.07.png)
 
 ---
 
-![github repo with mirror](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510851285/cat_referendum/Screen_Shot_2017-11-16_at_17.54.19.png)
+![github repo with mirror](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510851285/cat_referendum/Screen_Shot_2017-11-16_at_17.54.19.png)
 
 ---
 
@@ -131,7 +131,7 @@ Although the precise details aren't really publicly known, here are some verifia
 
 ---
 
-![santi vidal](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510850104/cat_referendum/Screen_Shot_2017-11-16_at_17.28.18.png)
+![santi vidal](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510850104/cat_referendum/Screen_Shot_2017-11-16_at_17.28.18.png)
 
 ---
 
@@ -139,7 +139,7 @@ Although the precise details aren't really publicly known, here are some verifia
 
 ---
 
-![github repo of whatsapp bot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510852160/cat_referendum/Screen_Shot_2017-11-16_at_18.08.46.png)
+![github repo of whatsapp bot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510852160/cat_referendum/Screen_Shot_2017-11-16_at_18.08.46.png)
 
 ---
 
@@ -151,15 +151,15 @@ Website was Grade A according to SSLlabs, this is the highest ranking and certif
 
 ---
 
-![telegram bot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.57.06.png)
+![telegram bot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.57.06.png)
 
 ---
 
-![papeleta en google drive](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.44.png)
+![papeleta en google drive](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510847838/cat_referendum/Screen_Shot_2017-11-16_at_15.48.44.png)
 
 ---
 
-![encouraging people to send the apps APK package via whatsapp](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_500/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.54.15.png)
+![encouraging people to send the apps APK package via whatsapp](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510847839/cat_referendum/Screen_Shot_2017-11-16_at_15.54.15.png)
 
 ---
 
@@ -179,7 +179,7 @@ This was what most telecoms did: Orange and other telecoms that use their networ
 ---
 
 ### Remember #direntwitter
-![#direntwitter](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1510850656/cat_referendum/Alternative_DNS.jpg)
+![#direntwitter](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510850656/cat_referendum/Alternative_DNS.jpg)
 
 ---
 
