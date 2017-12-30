@@ -28,7 +28,7 @@ How do you build an electronic census online, on the open Internet, knowing that
 
 ---
 
-Hmmm... tricky! The _Catalonian Govern's_ digital strategy for the day of the referendum is a great study case on countermeasures for digital censorship.
+Hmmm... tricky! The strategies for the digital census the day of the Catalonian referendum is a great study case on countermeasures for digital censorship.
 
 ---
 
@@ -63,8 +63,6 @@ This is some kind of encoded database. Not entirely clear what it is. Things are
 The `index.html` file reveals what your browser does next:
 
 ```
-<script type="text/javascript" src="../js/bundleV9.js"></script>
-<script type="text/javascript">
 function calcula() {
   document.querySelector("#stepLoad").style.display="inline"
   var dni = document.querySelector("#dni").value
@@ -163,7 +161,10 @@ Website was Grade A according to SSLlabs, this is the highest ranking and certif
 
 ---
 
-With a website, several hundred domains, servers in Spain and abroad, a Whatsapp bot, a Telegram bot and a self-dispatching census app as APK package. The _Govern's_ digital strategy is the most "all out" and overt digital campaign I am aware of.
+With a website, several hundred domains, servers in Spain and abroad, a Whatsapp bot, a Telegram bot and a self-dispatching census app as APK package. The different digital strategies adopted by Catalonians for the independence referendum conform the most "all out" and overt digital campaign I am aware of.
+
+---
+It is worth noting that there was not a single mind behind this "digital straetgy", meaning that it was not centrally coordinated by the Catalonian Govern, but rather different citizens with different areas of expertise contributed with their own tactics.
 
 ---
 
@@ -181,6 +182,7 @@ This was what most telecoms did: Orange and other telecoms that use their networ
 ### Remember #direntwitter
 ![#direntwitter](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_600/v1510850656/cat_referendum/Alternative_DNS.jpg)
 
+The DNS blokades were a common censorship measure during the Gezi protests, and have become commonplace in Turkey since.
 ---
 
 ## Movistar
